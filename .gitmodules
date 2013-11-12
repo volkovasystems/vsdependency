@@ -1,0 +1,3 @@
+[submodule "syllogi"]
+	path = syllogi
+	url = https://github.com/volkovasystems/syllogi.git
